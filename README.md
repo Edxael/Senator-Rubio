@@ -7,7 +7,7 @@ In this app we ask a question:
 
 When click in the button the answer shows for 2 seconds and hides again:
 
-![alt tag](https://github.com/Edxael/Senator-Rubio/blob/master/src/comps/img/ss2.png "React State")
+![alt tag](https://github.com/Edxael/Senator-Rubio/blob/master/src/comps/img/ss99.png "React State")
 
   - - - - - - - - - -
 
