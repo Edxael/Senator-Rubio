@@ -24,7 +24,7 @@ class Congress extends React.Component {
       } })
       .reduce((acc, cv) => { return cv })
 
-    this.setState({ name: marco.name, party: marco.party, birthday: marco.party, pic: mrpic });
+    this.setState({ name: marco.name, party: marco.party, birthday: marco.birthday, pic: mrpic });
     setTimeout(() => { this.setState({ name: "??? ???", party: "???", birthday: "??-??-??", pic: ameri});}, 2000);
 
   }
